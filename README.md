@@ -1,5 +1,5 @@
 
-# Data-Driven Internship Project at Apollo Tyres: Optimizing the HP2 Tyre Machine</h1>
+# Data Driven Internship: Optmizing Productivity in Apollo Tyres’ HP2 Tyre Machine Through Defect Reduction
 
 ## Overview
 <p>This internship project at Apollo Tyres focused on enhancing productivity by reducing defects in the HP2 Classic Tyre Building Machine. My role was to analyze data and derive actionable insights that could lead to significant process improvements within the manufacturing unit.</p>
